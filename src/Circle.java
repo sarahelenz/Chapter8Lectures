@@ -10,5 +10,7 @@ public class Circle {
         return this.radius;
     }
 
-
+    public String toString(){
+        return "(x - 0)^2 + (y - 0)^2 = 2^2";
+    }
 }
